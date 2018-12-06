@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth
  * @author murugan.v
  * This is main application of spring
  * security cloud project
+ * 
  */
 @SpringBootApplication
 //@EnableOAuth2Sso
